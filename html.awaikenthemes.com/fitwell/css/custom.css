@@ -1030,7 +1030,7 @@ header.main-header .header-sticky.active{
 	font-weight: 700;
 	line-height: 1.2em;
 	text-transform: uppercase;
-	color: var(--accent-secondary-color);
+	color: var(--text-color);
 	vertical-align: middle;
 }
 
